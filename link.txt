@@ -1,0 +1,1 @@
+http://delrey.td.utfpr.edu.br:8080/sentilo-catalog-web/toledo/component/map
